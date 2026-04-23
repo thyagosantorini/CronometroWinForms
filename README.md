@@ -54,5 +54,5 @@ Durante o desenvolvimento, o código passou por um processo de limpeza para:
 
 
 
-!\[Screenshot do Projeto](images/screenshot.gif)
+![Screenshot do Projeto](images/screenshot.gif)
 
